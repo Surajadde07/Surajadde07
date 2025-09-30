@@ -20,7 +20,7 @@ I have participated in **many hackathons** (even led my team to **1st place 🏆
 ---
 
 ## ⚡ Technologies I work with:
-- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React  
+- **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js  
 - **Backend**: Node.js, Express.js  
 - **Databases**: MySQL, PostgreSQL, MongoDB  
 - **Full Stack**: MERN  
@@ -35,7 +35,3 @@ I have participated in **many hackathons** (even led my team to **1st place 🏆
 - ⚡ Fun fact: I can survive on **banana shakes 🥤 + code** for days!  
 
 ---
-
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajadde&hide=["issues"]&show_icons=true&theme=radical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=surajadde.surajadde)
