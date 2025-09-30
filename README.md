@@ -8,7 +8,7 @@
 
 I am **Suraj Adde** 😃, a Computer Engineering student at **Chitkara University, Patiala 🏫**.  
 I’m passionate about **web development, problem-solving, and building impactful products**.  
-I have participated in **many hackathons** (even led my team to **1st place 🏆** in one) and love collaborating on exciting projects.
+I have participated in **many hackathons** (even led my team to **1st place 🏆**) and love collaborating on exciting projects.
 
 ---
 
